@@ -12,6 +12,8 @@
 
 ### General JS/React
 #### 1. https://flaviocopes.com/how-to-uppercase-first-letter-javascript/
+#### 2.https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1
+#### 3. 
 
 
 
@@ -21,6 +23,7 @@
 ### CSS/Bootstrap, for React (plus other ui frameworks) 
 #### 1. https://codesandbox.io/s/github/react-bootstrap/code-sandbox-examples/tree/master/basic-react-router
   -- LinkContainer, bootstrap for Router 
+#### 2. 
 
 
 
